@@ -1,13 +1,20 @@
 # Reproducing Federated Learning
+
+## Requirements
+- matplotlib==3.3.4
+- tensorflow==2.4.1
+- keras==2.4.3
+- scikit-learn==0.24.1
+- tqdm==4.57.0
+
+## Explanations
 Here, I provided two versions of the implementation:
 1) Python file (.py)
 2) Jupyter Notebok file (.py)
 
 Please see the below explanation for how to run the codes.
 
-#############################
-##### Python Code (.py) #####
-#############################
+### Python Code (.py) 
 The python codes (federated_train.py & plot_multi_cases.py) are provided for a simpler execution.
 Basically the implementation is the same as the provided Jupyter Notebook file (which was actually used to obtained the results shown in the report).
 
@@ -41,9 +48,7 @@ Arguments info:
   --data_dist {iid,noniid} iid or noniid
   --result_files           training result files. separate by space for multiple files. eg. --result_files file1.pickle file2.pickle
 
-#####################################
-##### Jupyter Notebook (.ipynb) #####
-#####################################
+### Jupyter Notebook (.ipynb)
 The results shown in the report were obtained using the provided Jupyter Notebook file (reproducing_federated_learning.ipynb).
 It was executed in the Google Colab environment.
 
