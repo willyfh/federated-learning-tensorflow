@@ -18,7 +18,7 @@ Please see the below explanation for how to run the codes.
 The python codes (federated_train.py & plot_multi_cases.py) are provided for a simpler execution.
 Basically the implementation is the same as the provided Jupyter Notebook file (which was actually used to obtained the results shown in the report).
 
-1. Inside the "codes" folder, install the required libraries:
+1. Install the required libraries:
 > pip install -r requirements.txt
 
 2. Execute federated_train.py to train the model:
@@ -49,10 +49,10 @@ Arguments info:
   --result_files           training result files. separate by space for multiple files. eg. --result_files file1.pickle file2.pickle
 
 ### Jupyter Notebook File (.ipynb)
-The results shown in the report were obtained using the provided Jupyter Notebook file (reproducing_federated_learning.ipynb).
-It was executed in the Google Colab environment.
+The results shown in the report were obtained using the provided Jupyter Notebook file (federated_learning.ipynb).
+It was executed and tested in the Google Colab environment.
 
-1. Upload reproducing_federated_learning.ipynb to Google Colab / Jupyter Notebook
+1. Upload federated_learning.ipynb to Google Colab / Jupyter Notebook
 2. Change the parameters as needed in the provided section "Parameters".
 3. Click Runtime > Run all
 4. The training result file (.pickle) will be saved and the plots (train-test plot) will be displayed in the notebook.
