@@ -14,7 +14,7 @@
 ## Explanations
 Here, I provide two versions of the implementation:
 1) Python file (.py)
-2) Jupyter Notebok file (.py)
+2) Jupyter Notebok file (.ipynb)
 
 Please see the below explanation for how to run the codes.
 
