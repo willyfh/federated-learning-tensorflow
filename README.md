@@ -14,7 +14,7 @@ Here, I provided two versions of the implementation:
 
 Please see the below explanation for how to run the codes.
 
-### Python Code (.py) 
+### Python Files (.py) 
 The python codes (federated_train.py & plot_multi_cases.py) are provided for a simpler execution.
 Basically the implementation is the same as the provided Jupyter Notebook file (which was actually used to obtained the results shown in the report).
 
@@ -48,7 +48,7 @@ Arguments info:
   --data_dist {iid,noniid} iid or noniid
   --result_files           training result files. separate by space for multiple files. eg. --result_files file1.pickle file2.pickle
 
-### Jupyter Notebook (.ipynb)
+### Jupyter Notebook File (.ipynb)
 The results shown in the report were obtained using the provided Jupyter Notebook file (reproducing_federated_learning.ipynb).
 It was executed in the Google Colab environment.
 
