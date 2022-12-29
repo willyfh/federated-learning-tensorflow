@@ -1,4 +1,6 @@
 # Reproducing Federated Learning
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/dummy)
+
 **Paper**: McMahan, H. B. et al. “Communication-Efficient Learning of Deep Networks from Decentralized Data.” International Conference on Artificial Intelligence and Statistics (2016) > https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf
 
 ## Summary of the paper
