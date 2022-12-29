@@ -1,5 +1,5 @@
 # Reproducing Federated Learning
-**Paper**: McMahan, H. B. et al. “Communication-Efficient Learning of Deep Networks from Decentralized Data.” International Conference on Artificial Intelligence and Statistics (2016). **[PDF]**: https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf
+**Paper**: McMahan, H. B. et al. “Communication-Efficient Learning of Deep Networks from Decentralized Data.” International Conference on Artificial Intelligence and Statistics (2016). **PDF**: https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf
 ## Requirements
 - matplotlib==3.3.4
 - tensorflow==2.4.1
