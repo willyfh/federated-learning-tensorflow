@@ -1,8 +1,10 @@
 # Reproducing Federated Learning
-**Paper**: McMahan, H. B. et al. “Communication-Efficient Learning of Deep Networks from Decentralized Data.” International Conference on Artificial Intelligence and Statistics (2016). https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf
+**Paper**: McMahan, H. B. et al. “Communication-Efficient Learning of Deep Networks from Decentralized Data.” International Conference on Artificial Intelligence and Statistics (2016) > https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf
 
 ## Summary of the paper
-**Slides**: https://github.com/willyfh/federated-learning/blob/main/doc/Federated%20Learning%20-%20Summary.pdf
+I summarize the paper in the following slides:
+
+https://github.com/willyfh/federated-learning/blob/main/doc/Federated%20Learning%20-%20Summary.pdf
 
 ## Requirements
 - matplotlib==3.3.4
@@ -19,7 +21,7 @@ Here, I provide two versions of the implementation:
 Please see the below explanation for how to run the codes.
 
 ### Python Files (.py) 
-The python codes (federated_train.py & plot_multi_cases.py) are provided for a simpler execution.
+The python files (federated_train.py & plot_multi_cases.py) are provided for a simpler execution.
 Basically the implementation is the same as the provided Jupyter Notebook file (which was actually used to obtained the results shown in the report).
 
 1. Install the required libraries:
