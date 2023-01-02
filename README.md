@@ -3,6 +3,10 @@
 
 The unofficial implementation of federated learning (AISTATS 2017). I reproduced some experiment results in the federated learning paper around the beginning of 2021. In this repository, I provided the implementation along with the reproduced results.
 
+![image](https://user-images.githubusercontent.com/5786636/210189920-07a5e5f5-9605-4ce2-8bea-8afcea3a7068.png)
+
+Image source: https://www.netapp.com/blog/future-of-AI-federated-learning/
+
 **Paper**: McMahan, H. B. et al. “Communication-Efficient Learning of Deep Networks from Decentralized Data.” International Conference on Artificial Intelligence and Statistics (2017) > https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf
 
 
