@@ -1,7 +1,7 @@
 # Reproducing Federated Learning
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ooufYAIuKVGVozLOR_WoQjjCmgAab2_W?usp=sharing)
 
-The unofficial implementation of federated learning: Communication-Efficient Learning of Deep Networks from Decentralized Data (AISTATS 2017). I reproduced some experiment results in the federated learning paper around the beginning of 2021. In this repository, I provided the implementation along with the reproduced results.
+An unofficial implementation of federated learning: Communication-Efficient Learning of Deep Networks from Decentralized Data (AISTATS 2017). I reproduced some experiment results in the federated learning paper around the beginning of 2021. In this repository, I provided the implementation along with the reproduced results.
 
 ![image](https://user-images.githubusercontent.com/5786636/210189920-07a5e5f5-9605-4ce2-8bea-8afcea3a7068.png)
 
