@@ -13,7 +13,7 @@ Image source: https://www.netapp.com/blog/future-of-AI-federated-learning/
 ## Summary of the paper
 I summarize the paper in the following slides:
 
-https://github.com/willyfh/federated-learning/blob/main/doc/Federated%20Learning%20-%20Summary.pdf
+https://github.com/willyfh/federated-learning-tensorflow/blob/main/doc/Federated%20Learning%20-%20Summary.pdf
 
 ## Requirements
 - matplotlib==3.3.4
