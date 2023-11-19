@@ -1,4 +1,4 @@
-# Reproducing Federated Learning
+# Reproducing Federated Learning in TensorFlow
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ooufYAIuKVGVozLOR_WoQjjCmgAab2_W?usp=sharing)
 
 An unofficial implementation of federated learning: Communication-Efficient Learning of Deep Networks from Decentralized Data (AISTATS 2017). I reproduced some experiment results in the federated learning paper around the beginning of 2021. In this repository, I provided the implementation along with the reproduced results.
